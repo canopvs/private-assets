@@ -1,6 +1,6 @@
-const USER="skatevibe";
-const REPO="rpg-assets-template";
-const ROOT="assets";
+const USER="canopvs";
+const REPO="private-assets";
+const ROOT="shared";
  
 const gallery=document.getElementById("gallery");
 const back=document.getElementById("back");
