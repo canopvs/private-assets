@@ -1,8 +1,8 @@
 const USER="canopvs";
 const REPO="private-assets";
-const ROOT="shared";
+const ROOT="assets";
  
-const gallery=document.getElementById("system");
+const gallery=document.getElementById("gallery");
 const back=document.getElementById("back");
 
 let currentPath=ROOT;
