@@ -2,7 +2,7 @@ const USER="canopvs";
 const REPO="private-assets";
 const ROOT="shared";
  
-const gallery=document.getElementById("gallery");
+const gallery=document.getElementById("system");
 const back=document.getElementById("back");
 
 let currentPath=ROOT;
